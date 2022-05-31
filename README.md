@@ -1,2 +1,1 @@
-# Estudo-API
-Código sobre projeto de avaliação de estagiários.
+### Api de estudo criada para avaliação de estagiários.
